@@ -1,0 +1,37 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: libdvdnav-4.2.1.zip
+       Short Description: libdvdnav v4.2.1 for OS/2
+        Long Description: libdvdnav v4.2.1 for OS/2.
+The forked version by MPlayer team.
+libdvdnav is a library that allows easy use of sophisticated DVD navigation
+features such as DVD menus, multiangle playback and even interactive DVD games.
+All this functionality is provided through a simple API which provides the
+DVD playback as a single logical stream of blocks, intermitted by special
+dvdnav events to report certain conditions. The main usage of libdvdnav is a
+loop regularly calling a function to get the next block, surrounded by
+additional calls to tell the library of user interaction.
+The whole DVD virtual machine and internal playback states are completely
+encapsulated.
+
+      Proposed directory
+           for placement: /pub/os2/dev/mm
+
+               Your name: KO Myung-Hun
+           Email address: komh@chollian.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: kLIBC065, UDF support, libdvdcss 1.2.13, libdvdread 4.2.1
+
+                Replaces: (none)
+
+
+
